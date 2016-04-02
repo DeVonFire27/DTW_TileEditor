@@ -1,0 +1,10 @@
+F:\Documents\Skool\WTP\TileEditor\TileEditor\bin\Debug\TileEditor.exe.config
+F:\Documents\Skool\WTP\TileEditor\TileEditor\bin\Debug\TileEditor.exe
+F:\Documents\Skool\WTP\TileEditor\TileEditor\bin\Debug\TileEditor.pdb
+F:\Documents\Skool\WTP\TileEditor\TileEditor\obj\Debug\TileEditor.csprojResolveAssemblyReference.cache
+F:\Documents\Skool\WTP\TileEditor\TileEditor\obj\Debug\TileEditor.Customize.resources
+F:\Documents\Skool\WTP\TileEditor\TileEditor\obj\Debug\TileEditor.Form1.resources
+F:\Documents\Skool\WTP\TileEditor\TileEditor\obj\Debug\TileEditor.Properties.Resources.resources
+F:\Documents\Skool\WTP\TileEditor\TileEditor\obj\Debug\TileEditor.csproj.GenerateResource.Cache
+F:\Documents\Skool\WTP\TileEditor\TileEditor\obj\Debug\TileEditor.exe
+F:\Documents\Skool\WTP\TileEditor\TileEditor\obj\Debug\TileEditor.pdb
